@@ -1,10 +1,10 @@
-## Oi, sou Mikael Stanley! 
+## Hi! i'm Mikael Stanley! 
 
-Sou estudante do curso Análise e desenvolvimento de sistemas no IFPB Campus Cajazeiras, e apaixonado por Games, atualmente me dedico a aprender sobre o desenvolvimento de jogos e tecnologias usadas na área.
+I'm a student of the Analysis and Systems Development course at IFPB Campus Cajazeiras.
+
+#### Áreas de interesse
+* Web Development
+* Game Design
 
 #### Habilidades
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
-
-#### Áreas de interesse
-* Desenvolvimento para Web
-* Desenvolvimento de jogos com C# e Unity
