@@ -1,10 +1,24 @@
-## Oi, sou Mikael Stanley! 
+## Hi! i'm Mikael Stanley! 
 
-Sou estudante do curso Análise e desenvolvimento de sistemas no IFPB Campus Cajazeiras, e apaixonado por Games, atualmente me dedico a aprender sobre o desenvolvimento de jogos e tecnologias usadas na área.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.st4nley/)
 
-#### Habilidades
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
+##
+I'm a student of the Analysis and Systems Development course at IFPB Campus Cajazeiras. 
+<br></br>
+Focused on learning about game development.
 
-#### Áreas de interesse
-* Desenvolvimento para Web
-* Desenvolvimento de jogos com C# e Unity
+#### INTEREST AREAS
+- Web Development
+- Game Development 🎮
+
+#### SKILLS
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<br></br>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mikaelStl&theme=github-dark-blue&hide_border=true)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mikaelStl&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark)
+
+<!--badges: https://dev.to/envoy_/150-badges-for-github-pnk-->
