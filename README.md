@@ -27,7 +27,7 @@ Focused on learning about game development.
 <!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)-->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mikaelStl&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mikael-st&theme=github-dark-blue&hide_border=true)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mikaelStl&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark)
 
 <!--badges: https://dev.to/envoy_/150-badges-for-github-pnk-->
