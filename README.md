@@ -10,7 +10,7 @@ I'm a student of the Analysis and Systems Development course at IFPB Campus Caja
 Developer exploring the full-stack area a little, focused on creating complete and easy-to-use applications. My principal experiences were with personal and academic projects, where I tried to create usable and different applications.
 
 #### INTERESTS
-- Backend Development
+- Backend and Frontend Development
 - Web Development
 - Game Development 🎮
 
